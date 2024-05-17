@@ -1,3 +1,6 @@
+
+## This repository is for anonymous use with SMI papers.
+
 Code&Data for paper "Retargeting of Facial Model for Unordered  Dense Point Cloud"
 
 
