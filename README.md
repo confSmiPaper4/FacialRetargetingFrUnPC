@@ -3,7 +3,7 @@
 
 Code&Data for paper "Retargeting of Facial Model for Unordered  Dense Point Cloud"
 
-Some of the remaining code and interactive software will be uploaded after the papers have been accepted.
+The rest of the code and the interactive software will be organized and uploaded later with the permission of the database author.
 
 Acknowledgements
 The project is built upon Deformation-Transfer-Matlab. We thank Deformation-Transfer-Matlab's authors for their excellent work and repository.
