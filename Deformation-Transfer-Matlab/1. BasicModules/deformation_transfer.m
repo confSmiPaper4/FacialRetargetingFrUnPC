@@ -48,7 +48,7 @@ end
 
 
 
-% %%上一次写的有点不明白，但是work的代码
+% %%
 Nye=cell(length(VT),1);
 Ninx=cell(length(VT),1);
 for  i=1:lenFS
