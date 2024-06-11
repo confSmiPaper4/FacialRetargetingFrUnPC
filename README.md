@@ -3,7 +3,7 @@
 
 The visualization tool utilizes the method proposed in the paper, which will be released here upon the paper’s acceptance.
 
-This visualization tool is based on the caszm medical simulation software and was co-developed by Di Wu(d.wu@siat.ac.cn) and Yuping Ye(yeahpingye@gmail.com) from SIAT, along with the caszm team(http://www.caszm.com/).
+This visualization tool is built on the caszm medical simulation software and was co-developed by Di Wu(d.wu@siat.ac.cn) and Yuping Ye(yeahpingye@gmail.com) from SIAT, along with the caszm team(http://www.caszm.com/).
 
 The tool also can be download with baiduDisk：
 
