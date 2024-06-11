@@ -1,5 +1,5 @@
 
-## This repository is for anonymous use with SMI papers.
+## This repository is SMI papers.
 
 The visualization tool utilizes the method proposed in the paper, which will be released here upon the paper’s acceptance.
 
