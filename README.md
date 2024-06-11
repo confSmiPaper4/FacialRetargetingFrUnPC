@@ -1,5 +1,5 @@
 
-## This repository is SMI papers.
+## This repository is created for SMI paper 4.
 
 The visualization tool utilizes the method proposed in the paper, which will be released here upon the paper’s acceptance.
 
