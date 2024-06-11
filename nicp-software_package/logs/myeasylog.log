@@ -1,0 +1,538 @@
+2024-06-04 17:13:05,613 INFO [default] Open font file error
+2024-06-04 17:13:05,613 INFO [default] Open font file error
+2024-06-04 17:13:05,613 INFO [default] Open font file error
+2024-06-04 17:13:05,669 INFO [default] argc:1
+2024-06-04 17:13:05,671 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:13:05,671 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:13:05,702 INFO [default] loadDtStream Done!
+2024-06-04 17:13:06,148 INFO [default] init GL...
+2024-06-04 17:13:06,171 INFO [default] Open Model Success!
+2024-06-04 17:13:13,825 INFO [default] Open font file error
+2024-06-04 17:13:13,827 INFO [default] Open font file error
+2024-06-04 17:13:13,827 INFO [default] Open font file error
+2024-06-04 17:13:13,888 INFO [default] argc:1
+2024-06-04 17:13:13,890 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:13:13,890 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:13:13,927 INFO [default] loadDtStream Done!
+2024-06-04 17:13:14,373 INFO [default] init GL...
+2024-06-04 17:13:14,402 INFO [default] Open Model Success!
+2024-06-04 17:13:33,607 INFO [default] loadMesh filePath:	C:/Users/caszm/Documents/2target1.ply
+2024-06-04 17:13:33,800 INFO [default] load mesh check 
+[verts.size()=260085]
+[normals.size()=260085]
+[faces.size()=519673]
+2024-06-04 17:13:36,481 INFO [default] loadMesh filePath:	C:/Users/caszm/Documents/2target1.ply
+2024-06-04 17:13:36,669 INFO [default] load mesh check 
+[verts.size()=260085]
+[normals.size()=260085]
+[faces.size()=519673]
+2024-06-04 17:13:40,480 INFO [default] loadMesh filePath:	C:/Users/caszm/Documents/1template1.ply
+2024-06-04 17:13:40,514 INFO [default] load mesh check 
+[verts.size()=47521]
+[normals.size()=47521]
+[faces.size()=94553]
+2024-06-04 17:13:49,981 INFO [default] trimmed icp error2.98099
+2024-06-04 17:15:03,526 INFO [default] Open font file error
+2024-06-04 17:15:03,527 INFO [default] Open font file error
+2024-06-04 17:15:03,527 INFO [default] Open font file error
+2024-06-04 17:15:03,593 INFO [default] argc:1
+2024-06-04 17:15:03,595 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:15:03,596 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:15:03,631 INFO [default] loadDtStream Done!
+2024-06-04 17:15:04,086 INFO [default] init GL...
+2024-06-04 17:15:04,115 INFO [default] Open Model Success!
+2024-06-04 17:15:09,751 INFO [default] Open font file error
+2024-06-04 17:15:09,751 INFO [default] Open font file error
+2024-06-04 17:15:09,751 INFO [default] Open font file error
+2024-06-04 17:15:09,819 INFO [default] argc:1
+2024-06-04 17:15:09,820 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:15:09,820 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:15:09,858 INFO [default] loadDtStream Done!
+2024-06-04 17:15:09,881 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2024-06-04 17:15:09,881 WARNING [default] Aborting application. Reason: Fatal log at [..\..\luna2.0\dependencies\logger\easylogging++.cc:2757]
+2024-06-04 17:15:33,290 INFO [default] Open font file error
+2024-06-04 17:15:33,290 INFO [default] Open font file error
+2024-06-04 17:15:33,290 INFO [default] Open font file error
+2024-06-04 17:15:33,349 INFO [default] argc:1
+2024-06-04 17:15:33,351 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:15:33,351 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:15:33,383 INFO [default] loadDtStream Done!
+2024-06-04 17:15:33,818 INFO [default] init GL...
+2024-06-04 17:15:33,850 INFO [default] Open Model Success!
+2024-06-04 17:15:46,325 INFO [default] Open font file error
+2024-06-04 17:15:46,325 INFO [default] Open font file error
+2024-06-04 17:15:46,325 INFO [default] Open font file error
+2024-06-04 17:15:46,384 INFO [default] argc:1
+2024-06-04 17:15:46,386 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:15:46,386 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:15:46,422 INFO [default] loadDtStream Done!
+2024-06-04 17:15:46,851 INFO [default] init GL...
+2024-06-04 17:15:46,880 INFO [default] Open Model Success!
+2024-06-04 17:16:19,693 INFO [default] Open font file error
+2024-06-04 17:16:19,693 INFO [default] Open font file error
+2024-06-04 17:16:19,693 INFO [default] Open font file error
+2024-06-04 17:16:19,752 INFO [default] argc:1
+2024-06-04 17:16:19,754 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:16:19,754 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:16:19,787 INFO [default] loadDtStream Done!
+2024-06-04 17:16:20,226 INFO [default] init GL...
+2024-06-04 17:16:20,257 INFO [default] Open Model Success!
+2024-06-04 17:16:30,515 INFO [default] Open font file error
+2024-06-04 17:16:30,515 INFO [default] Open font file error
+2024-06-04 17:16:30,515 INFO [default] Open font file error
+2024-06-04 17:16:30,575 INFO [default] argc:1
+2024-06-04 17:16:30,578 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:16:30,578 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:16:30,611 INFO [default] loadDtStream Done!
+2024-06-04 17:16:31,069 INFO [default] init GL...
+2024-06-04 17:16:31,095 INFO [default] Open Model Success!
+2024-06-04 17:16:39,236 INFO [default] Open font file error
+2024-06-04 17:16:39,236 INFO [default] Open font file error
+2024-06-04 17:16:39,236 INFO [default] Open font file error
+2024-06-04 17:16:39,296 INFO [default] argc:1
+2024-06-04 17:16:39,298 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:16:39,298 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:16:39,330 INFO [default] loadDtStream Done!
+2024-06-04 17:16:39,753 INFO [default] init GL...
+2024-06-04 17:16:39,782 INFO [default] Open Model Success!
+2024-06-04 17:16:50,582 INFO [default] Open font file error
+2024-06-04 17:16:50,582 INFO [default] Open font file error
+2024-06-04 17:16:50,582 INFO [default] Open font file error
+2024-06-04 17:16:50,643 INFO [default] argc:1
+2024-06-04 17:16:50,646 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:16:50,646 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:16:50,684 INFO [default] loadDtStream Done!
+2024-06-04 17:16:51,131 INFO [default] init GL...
+2024-06-04 17:16:51,159 INFO [default] Open Model Success!
+2024-06-04 17:16:55,980 INFO [default] loadMesh filePath:	C:/Users/caszm/Documents/1template1.ply
+2024-06-04 17:16:56,016 INFO [default] load mesh check 
+[verts.size()=47521]
+[normals.size()=47521]
+[faces.size()=94553]
+2024-06-04 17:16:57,761 INFO [default] loadMesh filePath:	C:/Users/caszm/Documents/2target1.ply
+2024-06-04 17:16:57,948 INFO [default] load mesh check 
+[verts.size()=260085]
+[normals.size()=260085]
+[faces.size()=519673]
+2024-06-04 17:17:04,726 INFO [default] trimmed icp error2.94707
+2024-06-04 17:18:12,885 INFO [default] Open font file error
+2024-06-04 17:18:12,885 INFO [default] Open font file error
+2024-06-04 17:18:12,885 INFO [default] Open font file error
+2024-06-04 17:18:12,943 INFO [default] argc:1
+2024-06-04 17:18:12,945 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:18:12,945 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:18:12,978 INFO [default] loadDtStream Done!
+2024-06-04 17:18:25,897 INFO [default] Open font file error
+2024-06-04 17:18:25,897 INFO [default] Open font file error
+2024-06-04 17:18:25,897 INFO [default] Open font file error
+2024-06-04 17:18:25,954 INFO [default] argc:1
+2024-06-04 17:18:25,957 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:18:25,957 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:18:25,999 INFO [default] loadDtStream Done!
+2024-06-04 17:18:26,443 INFO [default] init GL...
+2024-06-04 17:18:26,471 INFO [default] Open Model Success!
+2024-06-04 17:18:34,680 INFO [default] Open font file error
+2024-06-04 17:18:34,680 INFO [default] Open font file error
+2024-06-04 17:18:34,680 INFO [default] Open font file error
+2024-06-04 17:18:34,739 INFO [default] argc:1
+2024-06-04 17:18:34,742 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:18:34,742 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:18:34,774 INFO [default] loadDtStream Done!
+2024-06-04 17:18:35,222 INFO [default] init GL...
+2024-06-04 17:18:35,251 INFO [default] Open Model Success!
+2024-06-04 17:18:44,805 INFO [default] Open font file error
+2024-06-04 17:18:44,805 INFO [default] Open font file error
+2024-06-04 17:18:44,805 INFO [default] Open font file error
+2024-06-04 17:18:44,864 INFO [default] argc:1
+2024-06-04 17:18:44,866 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:18:44,866 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:18:44,905 INFO [default] loadDtStream Done!
+2024-06-04 17:18:45,347 INFO [default] init GL...
+2024-06-04 17:18:45,376 INFO [default] Open Model Success!
+2024-06-04 17:18:50,951 INFO [default] Open font file error
+2024-06-04 17:18:50,951 INFO [default] Open font file error
+2024-06-04 17:18:50,952 INFO [default] Open font file error
+2024-06-04 17:18:51,010 INFO [default] argc:1
+2024-06-04 17:18:51,012 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:18:51,012 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:18:51,046 INFO [default] loadDtStream Done!
+2024-06-04 17:18:58,472 INFO [default] Open font file error
+2024-06-04 17:18:58,472 INFO [default] Open font file error
+2024-06-04 17:18:58,472 INFO [default] Open font file error
+2024-06-04 17:18:58,538 INFO [default] argc:1
+2024-06-04 17:18:58,541 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:18:58,541 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:18:58,577 INFO [default] loadDtStream Done!
+2024-06-04 17:19:12,601 INFO [default] Open font file error
+2024-06-04 17:19:12,601 INFO [default] Open font file error
+2024-06-04 17:19:12,601 INFO [default] Open font file error
+2024-06-04 17:19:12,661 INFO [default] argc:1
+2024-06-04 17:19:12,664 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:19:12,664 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:19:12,696 INFO [default] loadDtStream Done!
+2024-06-04 17:19:12,769 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2024-06-04 17:19:12,769 WARNING [default] Aborting application. Reason: Fatal log at [..\..\luna2.0\dependencies\logger\easylogging++.cc:2757]
+2024-06-04 17:19:20,645 INFO [default] Open font file error
+2024-06-04 17:19:20,645 INFO [default] Open font file error
+2024-06-04 17:19:20,645 INFO [default] Open font file error
+2024-06-04 17:19:20,703 INFO [default] argc:1
+2024-06-04 17:19:20,706 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:19:20,706 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:19:20,744 INFO [default] loadDtStream Done!
+2024-06-04 17:19:21,190 INFO [default] init GL...
+2024-06-04 17:19:21,219 INFO [default] Open Model Success!
+2024-06-04 17:19:24,925 INFO [default] Open font file error
+2024-06-04 17:19:24,925 INFO [default] Open font file error
+2024-06-04 17:19:24,925 INFO [default] Open font file error
+2024-06-04 17:19:24,984 INFO [default] argc:1
+2024-06-04 17:19:24,986 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:19:24,986 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:19:25,019 INFO [default] loadDtStream Done!
+2024-06-04 17:19:25,434 INFO [default] init GL...
+2024-06-04 17:19:25,465 INFO [default] Open Model Success!
+2024-06-04 17:19:30,807 INFO [default] Open font file error
+2024-06-04 17:19:30,807 INFO [default] Open font file error
+2024-06-04 17:19:30,807 INFO [default] Open font file error
+2024-06-04 17:19:30,868 INFO [default] argc:1
+2024-06-04 17:19:30,870 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:19:30,870 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:19:30,903 INFO [default] loadDtStream Done!
+2024-06-04 17:19:31,345 INFO [default] init GL...
+2024-06-04 17:19:31,374 INFO [default] Open Model Success!
+2024-06-04 17:19:37,151 INFO [default] Open font file error
+2024-06-04 17:19:37,151 INFO [default] Open font file error
+2024-06-04 17:19:37,151 INFO [default] Open font file error
+2024-06-04 17:19:37,212 INFO [default] argc:1
+2024-06-04 17:19:37,214 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:19:37,214 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:19:37,249 INFO [default] loadDtStream Done!
+2024-06-04 17:19:37,693 INFO [default] init GL...
+2024-06-04 17:19:37,720 INFO [default] Open Model Success!
+2024-06-04 17:19:59,734 INFO [default] Open font file error
+2024-06-04 17:19:59,734 INFO [default] Open font file error
+2024-06-04 17:19:59,734 INFO [default] Open font file error
+2024-06-04 17:19:59,799 INFO [default] argc:1
+2024-06-04 17:19:59,801 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:19:59,801 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:19:59,838 INFO [default] loadDtStream Done!
+2024-06-04 17:20:00,287 INFO [default] init GL...
+2024-06-04 17:20:00,315 INFO [default] Open Model Success!
+2024-06-04 17:20:10,127 INFO [default] Open font file error
+2024-06-04 17:20:10,127 INFO [default] Open font file error
+2024-06-04 17:20:10,127 INFO [default] Open font file error
+2024-06-04 17:20:10,191 INFO [default] argc:1
+2024-06-04 17:20:10,193 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:20:10,193 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:20:10,230 INFO [default] loadDtStream Done!
+2024-06-04 17:20:10,662 INFO [default] init GL...
+2024-06-04 17:20:10,691 INFO [default] Open Model Success!
+2024-06-04 17:20:18,281 INFO [default] Open font file error
+2024-06-04 17:20:18,281 INFO [default] Open font file error
+2024-06-04 17:20:18,281 INFO [default] Open font file error
+2024-06-04 17:20:18,346 INFO [default] argc:1
+2024-06-04 17:20:18,348 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:20:18,348 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:20:18,385 INFO [default] loadDtStream Done!
+2024-06-04 17:20:18,816 INFO [default] init GL...
+2024-06-04 17:20:18,844 INFO [default] Open Model Success!
+2024-06-04 17:20:23,397 INFO [default] Open font file error
+2024-06-04 17:20:23,397 INFO [default] Open font file error
+2024-06-04 17:20:23,397 INFO [default] Open font file error
+2024-06-04 17:20:23,458 INFO [default] argc:1
+2024-06-04 17:20:23,460 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:20:23,460 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:20:23,493 INFO [default] loadDtStream Done!
+2024-06-04 17:20:23,568 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2024-06-04 17:20:23,568 WARNING [default] Aborting application. Reason: Fatal log at [..\..\luna2.0\dependencies\logger\easylogging++.cc:2757]
+2024-06-04 17:20:56,524 INFO [default] Open font file error
+2024-06-04 17:20:56,524 INFO [default] Open font file error
+2024-06-04 17:20:56,524 INFO [default] Open font file error
+2024-06-04 17:20:56,583 INFO [default] argc:1
+2024-06-04 17:20:56,586 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:20:56,586 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:20:56,617 INFO [default] loadDtStream Done!
+2024-06-04 17:21:10,820 INFO [default] Open font file error
+2024-06-04 17:21:10,821 INFO [default] Open font file error
+2024-06-04 17:21:10,821 INFO [default] Open font file error
+2024-06-04 17:21:10,883 INFO [default] argc:1
+2024-06-04 17:21:10,885 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:21:10,885 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:21:10,927 INFO [default] loadDtStream Done!
+2024-06-04 17:21:11,011 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2024-06-04 17:21:11,011 WARNING [default] Aborting application. Reason: Fatal log at [..\..\luna2.0\dependencies\logger\easylogging++.cc:2757]
+2024-06-04 17:21:19,670 INFO [default] Open font file error
+2024-06-04 17:21:19,670 INFO [default] Open font file error
+2024-06-04 17:21:19,670 INFO [default] Open font file error
+2024-06-04 17:21:19,730 INFO [default] argc:1
+2024-06-04 17:21:19,732 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:21:19,732 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:21:19,771 INFO [default] loadDtStream Done!
+2024-06-04 17:21:20,221 INFO [default] init GL...
+2024-06-04 17:21:20,250 INFO [default] Open Model Success!
+2024-06-04 17:21:25,367 INFO [default] Open font file error
+2024-06-04 17:21:25,367 INFO [default] Open font file error
+2024-06-04 17:21:25,367 INFO [default] Open font file error
+2024-06-04 17:21:25,431 INFO [default] argc:1
+2024-06-04 17:21:25,434 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:21:25,434 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:21:25,469 INFO [default] loadDtStream Done!
+2024-06-04 17:21:25,909 INFO [default] init GL...
+2024-06-04 17:21:25,937 INFO [default] Open Model Success!
+2024-06-04 17:21:31,133 INFO [default] Open font file error
+2024-06-04 17:21:31,133 INFO [default] Open font file error
+2024-06-04 17:21:31,133 INFO [default] Open font file error
+2024-06-04 17:21:31,194 INFO [default] argc:1
+2024-06-04 17:21:31,196 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:21:31,196 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:21:31,229 INFO [default] loadDtStream Done!
+2024-06-04 17:21:31,249 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2024-06-04 17:21:31,249 WARNING [default] Aborting application. Reason: Fatal log at [..\..\luna2.0\dependencies\logger\easylogging++.cc:2757]
+2024-06-04 17:21:38,613 INFO [default] Open font file error
+2024-06-04 17:21:38,614 INFO [default] Open font file error
+2024-06-04 17:21:38,614 INFO [default] Open font file error
+2024-06-04 17:21:38,674 INFO [default] argc:1
+2024-06-04 17:21:38,676 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:21:38,676 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:21:38,709 INFO [default] loadDtStream Done!
+2024-06-04 17:21:39,158 INFO [default] init GL...
+2024-06-04 17:21:39,186 INFO [default] Open Model Success!
+2024-06-04 17:21:45,425 INFO [default] Open font file error
+2024-06-04 17:21:45,425 INFO [default] Open font file error
+2024-06-04 17:21:45,425 INFO [default] Open font file error
+2024-06-04 17:21:45,484 INFO [default] argc:1
+2024-06-04 17:21:45,486 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:21:45,486 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:21:45,522 INFO [default] loadDtStream Done!
+2024-06-04 17:21:45,980 INFO [default] init GL...
+2024-06-04 17:21:46,010 INFO [default] Open Model Success!
+2024-06-04 17:21:52,483 INFO [default] Open font file error
+2024-06-04 17:21:52,483 INFO [default] Open font file error
+2024-06-04 17:21:52,484 INFO [default] Open font file error
+2024-06-04 17:21:52,543 INFO [default] argc:1
+2024-06-04 17:21:52,546 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:21:52,546 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:21:52,578 INFO [default] loadDtStream Done!
+2024-06-04 17:21:53,005 INFO [default] init GL...
+2024-06-04 17:21:53,033 INFO [default] Open Model Success!
+2024-06-04 17:21:57,374 INFO [default] Open font file error
+2024-06-04 17:21:57,374 INFO [default] Open font file error
+2024-06-04 17:21:57,374 INFO [default] Open font file error
+2024-06-04 17:21:57,434 INFO [default] argc:1
+2024-06-04 17:21:57,436 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:21:57,436 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:21:57,472 INFO [default] loadDtStream Done!
+2024-06-04 17:22:19,521 INFO [default] Open font file error
+2024-06-04 17:22:19,521 INFO [default] Open font file error
+2024-06-04 17:22:19,521 INFO [default] Open font file error
+2024-06-04 17:22:19,582 INFO [default] argc:1
+2024-06-04 17:22:19,584 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:22:19,584 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:22:19,617 INFO [default] loadDtStream Done!
+2024-06-04 17:22:31,704 INFO [default] Open font file error
+2024-06-04 17:22:31,704 INFO [default] Open font file error
+2024-06-04 17:22:31,704 INFO [default] Open font file error
+2024-06-04 17:22:31,764 INFO [default] argc:1
+2024-06-04 17:22:31,766 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:22:31,766 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:22:31,798 INFO [default] loadDtStream Done!
+2024-06-04 17:22:32,220 INFO [default] init GL...
+2024-06-04 17:22:32,248 INFO [default] Open Model Success!
+2024-06-04 17:22:39,436 INFO [default] Open font file error
+2024-06-04 17:22:39,436 INFO [default] Open font file error
+2024-06-04 17:22:39,436 INFO [default] Open font file error
+2024-06-04 17:22:39,497 INFO [default] argc:1
+2024-06-04 17:22:39,499 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:22:39,500 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:22:39,532 INFO [default] loadDtStream Done!
+2024-06-04 17:22:39,965 INFO [default] init GL...
+2024-06-04 17:22:39,995 INFO [default] Open Model Success!
+2024-06-04 17:22:48,508 INFO [default] Open font file error
+2024-06-04 17:22:48,508 INFO [default] Open font file error
+2024-06-04 17:22:48,508 INFO [default] Open font file error
+2024-06-04 17:22:48,572 INFO [default] argc:1
+2024-06-04 17:22:48,575 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:22:48,575 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:22:48,610 INFO [default] loadDtStream Done!
+2024-06-04 17:22:49,077 INFO [default] init GL...
+2024-06-04 17:22:49,104 INFO [default] Open Model Success!
+2024-06-04 17:22:56,837 INFO [default] Open font file error
+2024-06-04 17:22:56,837 INFO [default] Open font file error
+2024-06-04 17:22:56,837 INFO [default] Open font file error
+2024-06-04 17:22:56,902 INFO [default] argc:1
+2024-06-04 17:22:56,904 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:22:56,904 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:22:56,937 INFO [default] loadDtStream Done!
+2024-06-04 17:22:57,382 INFO [default] init GL...
+2024-06-04 17:22:57,412 INFO [default] Open Model Success!
+2024-06-04 17:23:02,036 INFO [default] Open font file error
+2024-06-04 17:23:02,036 INFO [default] Open font file error
+2024-06-04 17:23:02,036 INFO [default] Open font file error
+2024-06-04 17:23:02,097 INFO [default] argc:1
+2024-06-04 17:23:02,100 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:23:02,100 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:23:02,139 INFO [default] loadDtStream Done!
+2024-06-04 17:23:02,560 INFO [default] init GL...
+2024-06-04 17:23:02,590 INFO [default] Open Model Success!
+2024-06-04 17:23:07,388 INFO [default] Open font file error
+2024-06-04 17:23:07,388 INFO [default] Open font file error
+2024-06-04 17:23:07,388 INFO [default] Open font file error
+2024-06-04 17:23:07,449 INFO [default] argc:1
+2024-06-04 17:23:07,451 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:23:07,451 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:23:07,484 INFO [default] loadDtStream Done!
+2024-06-04 17:23:07,900 INFO [default] init GL...
+2024-06-04 17:23:07,929 INFO [default] Open Model Success!
+2024-06-04 17:23:43,590 INFO [default] Open font file error
+2024-06-04 17:23:43,590 INFO [default] Open font file error
+2024-06-04 17:23:43,590 INFO [default] Open font file error
+2024-06-04 17:23:43,648 INFO [default] argc:1
+2024-06-04 17:23:43,651 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:23:43,651 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:23:43,683 INFO [default] loadDtStream Done!
+2024-06-04 17:23:55,572 INFO [default] Open font file error
+2024-06-04 17:23:55,572 INFO [default] Open font file error
+2024-06-04 17:23:55,572 INFO [default] Open font file error
+2024-06-04 17:23:55,632 INFO [default] argc:1
+2024-06-04 17:23:55,634 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:23:55,634 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:23:55,675 INFO [default] loadDtStream Done!
+2024-06-04 17:24:11,284 INFO [default] Open font file error
+2024-06-04 17:24:11,284 INFO [default] Open font file error
+2024-06-04 17:24:11,284 INFO [default] Open font file error
+2024-06-04 17:24:11,346 INFO [default] argc:1
+2024-06-04 17:24:11,348 INFO [default] _querySpecifiedData failed!!!!
+2024-06-04 17:24:11,348 INFO [default] loadDtStream...C:/Users/caszm/Documents/bin/cie/example.cie
+2024-06-04 17:24:11,382 INFO [default] loadDtStream Done!
+2024-06-04 17:24:11,815 INFO [default] init GL...
+2024-06-04 17:24:11,844 INFO [default] Open Model Success!
+2024-06-05 14:05:17,690 INFO [default] Open font file error
+2024-06-05 14:05:17,690 INFO [default] Open font file error
+2024-06-05 14:05:17,690 INFO [default] Open font file error
+2024-06-05 14:05:17,864 INFO [default] argc:1
+2024-06-05 14:05:17,869 INFO [default] _querySpecifiedData failed!!!!
+2024-06-05 14:05:17,869 INFO [default] loadDtStream...E:/git/code/bin/bin/cie/example.cie
+2024-06-05 14:05:17,895 INFO [default] loadDtStream Done!
+2024-06-05 14:05:20,425 INFO [default] init GL...
+2024-06-05 14:05:20,744 INFO [default] Open Model Success!
+2024-06-05 15:27:52,746 INFO [default] Open font file error
+2024-06-05 15:27:52,746 INFO [default] Open font file error
+2024-06-05 15:27:52,746 INFO [default] Open font file error
+2024-06-05 15:27:52,792 INFO [default] argc:1
+2024-06-05 15:27:52,793 INFO [default] _querySpecifiedData failed!!!!
+2024-06-05 15:27:52,793 INFO [default] loadDtStream...E:/git/code/bin/bin/cie/example.cie
+2024-06-05 15:27:52,818 INFO [default] loadDtStream Done!
+2024-06-05 15:27:53,945 INFO [default] init GL...
+2024-06-05 15:27:53,957 INFO [default] Open Model Success!
+2024-06-05 15:35:31,858 INFO [default] Open font file error
+2024-06-05 15:35:31,858 INFO [default] Open font file error
+2024-06-05 15:35:31,858 INFO [default] Open font file error
+2024-06-05 15:35:31,906 INFO [default] argc:1
+2024-06-05 15:35:31,908 INFO [default] _querySpecifiedData failed!!!!
+2024-06-05 15:35:31,908 INFO [default] loadDtStream...E:/git/code/bin/cie/example.cie
+2024-06-05 15:35:32,054 INFO [default] loadDtStream Done!
+2024-06-05 15:35:33,340 INFO [default] init GL...
+2024-06-05 15:35:33,424 INFO [default] Open Model Success!
+2024-06-05 15:37:00,303 INFO [default] Open font file error
+2024-06-05 15:37:00,303 INFO [default] Open font file error
+2024-06-05 15:37:00,303 INFO [default] Open font file error
+2024-06-05 15:37:00,347 INFO [default] argc:1
+2024-06-05 15:37:00,348 INFO [default] _querySpecifiedData failed!!!!
+2024-06-05 15:37:00,348 INFO [default] loadDtStream...E:/git/code/bin/cie/example.cie
+2024-06-05 15:37:00,723 INFO [default] loadDtStream Done!
+2024-06-05 15:37:01,820 INFO [default] init GL...
+2024-06-05 15:37:02,075 INFO [default] Open Model Success!
+2024-06-05 20:04:14,488 INFO [default] Open font file error
+2024-06-05 20:04:14,488 INFO [default] Open font file error
+2024-06-05 20:04:14,488 INFO [default] Open font file error
+2024-06-05 20:04:14,535 INFO [default] argc:1
+2024-06-05 20:04:14,537 INFO [default] _querySpecifiedData failed!!!!
+2024-06-05 20:04:14,537 INFO [default] loadDtStream...E:/git/code/SIAT-NICP/cie/example.cie
+2024-06-05 20:04:14,988 INFO [default] loadDtStream Done!
+2024-06-05 20:04:16,337 INFO [default] init GL...
+2024-06-05 20:04:16,711 INFO [default] Open Model Success!
+2024-06-08 12:41:27,067 INFO [default] Open font file error
+2024-06-08 12:41:27,067 INFO [default] Open font file error
+2024-06-08 12:41:27,067 INFO [default] Open font file error
+2024-06-08 12:41:27,254 INFO [default] argc:1
+2024-06-08 12:41:27,269 INFO [default] _querySpecifiedData failed!!!!
+2024-06-08 12:41:27,269 INFO [default] loadDtStream...E:/git/code/SIAT-NICP/cie/example.cie
+2024-06-08 12:41:27,650 INFO [default] loadDtStream Done!
+2024-06-08 12:41:30,965 INFO [default] init GL...
+2024-06-08 12:41:31,244 INFO [default] Open Model Success!
+2024-06-08 12:46:04,268 INFO [default] Open font file error
+2024-06-08 12:46:04,268 INFO [default] Open font file error
+2024-06-08 12:46:04,268 INFO [default] Open font file error
+2024-06-08 12:46:04,313 INFO [default] argc:1
+2024-06-08 12:46:04,314 INFO [default] _querySpecifiedData failed!!!!
+2024-06-08 12:46:04,314 INFO [default] loadDtStream...E:/git/code/SIAT-NICP/cie/example.cie
+2024-06-08 12:46:04,681 INFO [default] loadDtStream Done!
+2024-06-08 12:46:07,037 INFO [default] init GL...
+2024-06-08 12:46:07,290 INFO [default] Open Model Success!
+2024-06-10 13:24:33,567 INFO [default] Open font file error
+2024-06-10 13:24:33,567 INFO [default] Open font file error
+2024-06-10 13:24:33,567 INFO [default] Open font file error
+2024-06-10 13:24:33,769 INFO [default] argc:1
+2024-06-10 13:24:33,774 INFO [default] _querySpecifiedData failed!!!!
+2024-06-10 13:24:33,774 INFO [default] loadDtStream...E:/git/code/SIAT-NICP/cie/example.cie
+2024-06-10 13:24:34,225 INFO [default] loadDtStream Done!
+2024-06-10 13:24:36,357 INFO [default] init GL...
+2024-06-10 13:24:36,838 INFO [default] Open Model Success!
+2024-06-10 13:31:14,982 INFO [default] loadMesh filePath:	F:/arkit52/Neutral.obj
+2024-06-10 13:31:15,175 INFO [default] load mesh check 
+[verts.size()=18710]
+[normals.size()=18710]
+[faces.size()=36864]
+2024-06-10 13:31:22,243 INFO [default] loadMesh filePath:	F:/diwu.obj
+2024-06-10 13:31:26,271 INFO [default] load mesh check 
+[verts.size()=299517]
+[normals.size()=299517]
+[faces.size()=596477]
+2024-06-10 13:34:44,093 INFO [default] Open font file error
+2024-06-10 13:34:44,093 INFO [default] Open font file error
+2024-06-10 13:34:44,093 INFO [default] Open font file error
+2024-06-10 13:34:44,188 INFO [default] argc:1
+2024-06-10 13:34:44,190 INFO [default] _querySpecifiedData failed!!!!
+2024-06-10 13:34:44,190 INFO [default] loadDtStream...E:/git/code/SIAT-NICP/cie/example.cie
+2024-06-10 13:34:44,690 INFO [default] loadDtStream Done!
+2024-06-10 13:34:46,056 INFO [default] init GL...
+2024-06-10 13:34:46,513 INFO [default] Open Model Success!
+2024-06-10 13:34:52,075 INFO [default] loadMesh filePath:	F:/template (1).obj
+2024-06-10 13:34:52,386 INFO [default] load mesh check 
+[verts.size()=28369]
+[normals.size()=28369]
+[faces.size()=56104]
+2024-06-10 13:34:56,725 INFO [default] loadMesh filePath:	F:/target.obj
+2024-06-10 13:35:01,040 INFO [default] load mesh check 
+[verts.size()=299517]
+[normals.size()=299517]
+[faces.size()=596477]
+2024-06-10 13:35:41,964 INFO [default] trimmed icp error2.512
+2024-06-10 13:39:35,188 INFO [default] Open font file error
+2024-06-10 13:39:35,188 INFO [default] Open font file error
+2024-06-10 13:39:35,188 INFO [default] Open font file error
+2024-06-10 13:39:35,248 INFO [default] argc:1
+2024-06-10 13:39:35,250 INFO [default] _querySpecifiedData failed!!!!
+2024-06-10 13:39:35,250 INFO [default] loadDtStream...E:/git/code/SIAT-NICP/cie/example.cie
+2024-06-10 13:39:35,795 INFO [default] loadDtStream Done!
+2024-06-10 13:39:37,209 INFO [default] init GL...
+2024-06-10 13:39:37,640 INFO [default] Open Model Success!
+2024-06-10 13:50:43,217 INFO [default] loadMesh filePath:	F:/template (1).obj
+2024-06-10 13:50:43,398 INFO [default] load mesh check 
+[verts.size()=28369]
+[normals.size()=28369]
+[faces.size()=56104]
+2024-06-10 13:50:46,857 INFO [default] loadMesh filePath:	F:/target.obj
+2024-06-10 13:50:49,595 INFO [default] load mesh check 
+[verts.size()=299517]
+[normals.size()=299517]
+[faces.size()=596477]
+2024-06-10 13:51:45,222 INFO [default] trimmed icp error2.52122
+2024-06-11 12:09:50,004 INFO [default] Open font file error
+2024-06-11 12:09:50,004 INFO [default] Open font file error
+2024-06-11 12:09:50,004 INFO [default] Open font file error
+2024-06-11 12:09:50,162 INFO [default] argc:1
+2024-06-11 12:09:50,167 INFO [default] _querySpecifiedData failed!!!!
+2024-06-11 12:09:50,167 INFO [default] loadDtStream...E:/git/code/SIAT-NICP/cie/example.cie
+2024-06-11 12:09:50,620 INFO [default] loadDtStream Done!
+2024-06-11 12:09:52,315 INFO [default] init GL...
+2024-06-11 12:09:52,619 INFO [default] Open Model Success!

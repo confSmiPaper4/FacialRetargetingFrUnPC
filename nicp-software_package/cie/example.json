@@ -1,0 +1,20 @@
+{
+    "ClientInfo": {
+        "birthday": "2024-05-15",
+        "counselorname": "Jennifer",
+        "doctor": "",
+        "gender": "女",
+        "id": "1562527208211",
+        "name": "AAAA",
+        "projectno": "筛选号03002",
+        "tel": "15625272001"
+    },
+    "FrontViewXAxis": "0",
+    "Plan": {
+        "ChestSurgery": "",
+        "EyeSurgery": "",
+        "FaceSurgery": "",
+        "MouthSurgery": "",
+        "NoseSurgery": ""
+    }
+}
