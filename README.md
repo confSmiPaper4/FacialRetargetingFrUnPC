@@ -15,7 +15,17 @@ Extracted Code：WUDI
 https://github.com/confSmiPaper4/FacialRetargetingFrUnPC/assets/169536616/a7bb47e8-f4fe-4735-918a-b77f701cb3c4
 
 
-
+Please cite：
+```
+@article{ye2024retargeting,
+  title={Retargeting of facial model for unordered dense point cloud},
+  author={Ye, Yuping and Han, Juncheng and Liang, Jixin and Wu, Di and Song, Zhan},
+  journal={Computers \& Graphics},
+  pages={103972},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
 
 
