@@ -536,3 +536,21 @@
 2024-06-11 12:09:50,620 INFO [default] loadDtStream Done!
 2024-06-11 12:09:52,315 INFO [default] init GL...
 2024-06-11 12:09:52,619 INFO [default] Open Model Success!
+2024-06-18 10:44:48,633 INFO [default] Open font file error
+2024-06-18 10:44:48,633 INFO [default] Open font file error
+2024-06-18 10:44:48,633 INFO [default] Open font file error
+2024-06-18 10:44:48,816 INFO [default] argc:1
+2024-06-18 10:44:48,830 INFO [default] _querySpecifiedData failed!!!!
+2024-06-18 10:44:48,830 INFO [default] loadDtStream...E:/git/Yeah/papers/conferences/smi/code/FacialRetargetingFrUnPC/nicp-software_package/cie/example.cie
+2024-06-18 10:44:49,186 INFO [default] loadDtStream Done!
+2024-06-18 10:44:51,135 INFO [default] init GL...
+2024-06-18 10:44:51,683 INFO [default] Open Model Success!
+2024-06-18 10:45:10,948 INFO [default] Open font file error
+2024-06-18 10:45:10,948 INFO [default] Open font file error
+2024-06-18 10:45:10,948 INFO [default] Open font file error
+2024-06-18 10:45:10,992 INFO [default] argc:1
+2024-06-18 10:45:10,994 INFO [default] _querySpecifiedData failed!!!!
+2024-06-18 10:45:10,994 INFO [default] loadDtStream...E:/git/Yeah/papers/conferences/smi/code/FacialRetargetingFrUnPC/nicp-software_package/cie/example.cie
+2024-06-18 10:45:11,373 INFO [default] loadDtStream Done!
+2024-06-18 10:45:12,684 INFO [default] init GL...
+2024-06-18 10:45:13,107 INFO [default] Open Model Success!
