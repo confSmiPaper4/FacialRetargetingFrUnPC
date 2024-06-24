@@ -17,13 +17,18 @@ https://github.com/confSmiPaper4/FacialRetargetingFrUnPC/assets/169536616/a7bb47
 
 Please cite：
 ```
-@article{ye2024retargeting,
-  title={Retargeting of facial model for unordered dense point cloud},
-  author={Ye, Yuping and Han, Juncheng and Liang, Jixin and Wu, Di and Song, Zhan},
-  journal={Computers \& Graphics},
-  pages={103972},
-  year={2024},
-  publisher={Elsevier}
+@article{YE2024103972,
+title = {Retargeting of facial model for unordered dense point cloud},
+journal = {Computers & Graphics},
+volume = {122},
+pages = {103972},
+year = {2024},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2024.103972},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849324001079},
+author = {Yuping Ye and Juncheng Han and Jixin Liang and Di Wu and Zhan Song},
+keywords = {Facial retargeting, Point cloud, Non-rigid registration},
+abstract = {Facial retargeting is a widely used technique in the game and film industries that replicates the expressions of a source facial model onto a target model. Existing methods for facial retargeting rely on either hand-crafted uniform triangle meshes or sparse points obtained from motion capture(mocap). In this paper, we propose an end-to-end facial retargeting algorithm that copies facial expressions from unordered dense point clouds onto the target model. First, a corresponding building method based on bi-harmonic function is introduced to ensure that the template model and a cluster of point clouds share the same triangle topology. Second, a deformation transferring method is presented to transfer the calculated deformation onto the target model. Several experiments are conducted on the SIAT-3DFE dataset to demonstrate the accuracy and efficiency of our method.}
 }
 ```
 
