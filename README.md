@@ -19,7 +19,7 @@ Extracted Code：WUDI
 https://github.com/confSmiPaper4/FacialRetargetingFrUnPC/assets/169536616/a7bb47e8-f4fe-4735-918a-b77f701cb3c4
 
 
-IF YOU HAVE 	ANY QUESTIONS, PLEASE FEEL FREE TO CONTACT TO DI WU(Di Wu(d.wu@siat.ac.cn)).
+IF YOU HAVE 	ANY QUESTIONS, PLEASE FEEL FREE TO CONTACT  DI WU(Di Wu(d.wu@siat.ac.cn)).
 
 Please cite：
 ```
